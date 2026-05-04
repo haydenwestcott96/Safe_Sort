@@ -1,0 +1,240 @@
+2026-05-04 10:02:02,105 INFO planned moves count=1
+2026-05-04 10:02:02,111 INFO planned moves count=3
+2026-05-04 10:02:02,112 INFO moved original=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_sorting_files_into_correc0\photo.png destination=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_sorting_files_into_correc0\Images\photo.png category=Images
+2026-05-04 10:02:02,113 INFO moved original=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_sorting_files_into_correc0\paper.pdf destination=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_sorting_files_into_correc0\Documents\paper.pdf category=Documents
+2026-05-04 10:02:02,114 INFO moved original=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_sorting_files_into_correc0\screenshot one.jpg destination=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_sorting_files_into_correc0\Screenshots\screenshot one.jpg category=Screenshots
+2026-05-04 10:02:02,114 INFO completed moves moved=3 failed=0
+2026-05-04 10:02:02,119 INFO planned moves count=1
+2026-05-04 10:02:02,120 INFO moved original=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_sorting_never_overwrites_0\photo.jpg destination=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_sorting_never_overwrites_0\Images\photo (1).jpg category=Images
+2026-05-04 10:02:02,120 INFO completed moves moved=1 failed=0
+2026-05-04 10:02:02,133 INFO scan start folder=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_scan_ignores_safesort_fol0 include_subfolders=False
+2026-05-04 10:02:02,133 INFO skipped safesort folder path=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_scan_ignores_safesort_fol0\Images
+2026-05-04 10:02:02,134 INFO scan end folder=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_scan_ignores_safesort_fol0 files_found=1 skipped=1
+2026-05-04 10:02:02,138 INFO scan start folder=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_scan_can_include_subfolde0 include_subfolders=True
+2026-05-04 10:02:02,139 INFO scan end folder=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_scan_can_include_subfolde0 files_found=1 skipped=0
+2026-05-04 10:02:02,142 INFO planned moves count=1
+2026-05-04 10:02:02,143 INFO moved original=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_undo_moves_files_back_wit0\paper.pdf destination=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_undo_moves_files_back_wit0\Documents\paper.pdf category=Documents
+2026-05-04 10:02:02,143 INFO completed moves moved=1 failed=0
+2026-05-04 10:02:02,145 INFO undo restored from=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_undo_moves_files_back_wit0\Documents\paper.pdf to=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-8\test_undo_moves_files_back_wit0\paper (1).pdf
+2026-05-04 10:02:02,145 INFO undo complete restored=1 failed=0
+2026-05-04 10:02:02,161 INFO planned moves count=1
+2026-05-04 10:14:19,780 INFO planned moves count=1
+2026-05-04 10:14:19,785 INFO planned moves count=3
+2026-05-04 10:14:19,786 INFO moved original=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_sorting_files_into_correc0\photo.png destination=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_sorting_files_into_correc0\Images\photo.png category=Images
+2026-05-04 10:14:19,787 INFO moved original=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_sorting_files_into_correc0\paper.pdf destination=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_sorting_files_into_correc0\Documents\paper.pdf category=Documents
+2026-05-04 10:14:19,788 INFO moved original=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_sorting_files_into_correc0\screenshot one.jpg destination=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_sorting_files_into_correc0\Screenshots\screenshot one.jpg category=Screenshots
+2026-05-04 10:14:19,788 INFO completed moves moved=3 failed=0
+2026-05-04 10:14:19,795 INFO planned moves count=1
+2026-05-04 10:14:19,796 INFO moved original=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_sorting_never_overwrites_0\photo.jpg destination=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_sorting_never_overwrites_0\Images\photo (1).jpg category=Images
+2026-05-04 10:14:19,796 INFO completed moves moved=1 failed=0
+2026-05-04 10:14:19,803 INFO scan start folder=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_scan_ignores_safesort_fol0 include_subfolders=False
+2026-05-04 10:14:19,803 INFO skipped safesort folder path=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_scan_ignores_safesort_fol0\Images
+2026-05-04 10:14:19,804 INFO scan end folder=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_scan_ignores_safesort_fol0 files_found=1 skipped=1
+2026-05-04 10:14:19,809 INFO scan start folder=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_scan_can_include_subfolde0 include_subfolders=True
+2026-05-04 10:14:19,810 INFO scan end folder=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_scan_can_include_subfolde0 files_found=1 skipped=0
+2026-05-04 10:14:19,813 INFO planned moves count=1
+2026-05-04 10:14:19,814 INFO moved original=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_undo_moves_files_back_wit0\paper.pdf destination=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_undo_moves_files_back_wit0\Documents\paper.pdf category=Documents
+2026-05-04 10:14:19,815 INFO completed moves moved=1 failed=0
+2026-05-04 10:14:19,816 INFO undo restored from=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_undo_moves_files_back_wit0\Documents\paper.pdf to=C:\Users\hayde\AppData\Local\Temp\pytest-of-hayden\pytest-9\test_undo_moves_files_back_wit0\paper (1).pdf
+2026-05-04 10:14:19,816 INFO undo complete restored=1 failed=0
+2026-05-04 10:14:19,823 INFO planned moves count=1
+2026-05-04 10:16:56,387 INFO scan start folder=C:\Users\hayde\Downloads include_subfolders=False
+2026-05-04 10:16:56,406 INFO skipped hidden/system path=C:\Users\hayde\Downloads\desktop.ini
+2026-05-04 10:16:56,425 INFO skipped hidden/system path=C:\Users\hayde\Downloads\~$2017 assignment data.xlsx
+2026-05-04 10:16:56,425 INFO scan end folder=C:\Users\hayde\Downloads files_found=188 skipped=2
+2026-05-04 10:16:56,462 INFO planned moves count=188
+2026-05-04 10:17:00,325 INFO moved original=C:\Users\hayde\Downloads\001 EARPLUG SHIRT tech pack (1).pdf destination=C:\Users\hayde\Downloads\Documents\001 EARPLUG SHIRT tech pack (1).pdf category=Documents
+2026-05-04 10:17:00,326 INFO moved original=C:\Users\hayde\Downloads\06C133617604_20220131_CofC_Email (1).pdf destination=C:\Users\hayde\Downloads\Documents\06C133617604_20220131_CofC_Email (1).pdf category=Documents
+2026-05-04 10:17:00,329 INFO moved original=C:\Users\hayde\Downloads\06C133617607_20250115_CofC_Email (1).pdf destination=C:\Users\hayde\Downloads\Documents\06C133617607_20250115_CofC_Email (1).pdf category=Documents
+2026-05-04 10:17:00,330 INFO moved original=C:\Users\hayde\Downloads\06H600638301_20220124_CofC_Email (2).pdf destination=C:\Users\hayde\Downloads\Documents\06H600638301_20220124_CofC_Email (2).pdf category=Documents
+2026-05-04 10:17:00,331 INFO moved original=C:\Users\hayde\Downloads\2019 Financials Westcott Farms.pdf destination=C:\Users\hayde\Downloads\Documents\2019 Financials Westcott Farms.pdf category=Documents
+2026-05-04 10:17:00,332 INFO moved original=C:\Users\hayde\Downloads\2020 Financial Report.pdf destination=C:\Users\hayde\Downloads\Documents\2020 Financial Report.pdf category=Documents
+2026-05-04 10:17:00,333 INFO moved original=C:\Users\hayde\Downloads\2023-09-september-calendar-en-1320x1020.png destination=C:\Users\hayde\Downloads\Images\2023-09-september-calendar-en-1320x1020.png category=Images
+2026-05-04 10:17:00,335 INFO moved original=C:\Users\hayde\Downloads\2025_ID Checklist Form_GREEN Kathryn.docx destination=C:\Users\hayde\Downloads\Documents\2025_ID Checklist Form_GREEN Kathryn.docx category=Documents
+2026-05-04 10:17:00,336 INFO moved original=C:\Users\hayde\Downloads\2025_ID Checklist Form_GREEN Kathryn.docx updated.docx destination=C:\Users\hayde\Downloads\Documents\2025_ID Checklist Form_GREEN Kathryn.docx updated.docx category=Documents
+2026-05-04 10:17:00,337 INFO moved original=C:\Users\hayde\Downloads\2025_NPC Form_GREEN Kathryn (1).docx destination=C:\Users\hayde\Downloads\Documents\2025_NPC Form_GREEN Kathryn (1).docx category=Documents
+2026-05-04 10:17:00,338 INFO moved original=C:\Users\hayde\Downloads\2025_NPC Form_GREEN Kathryn (2) (1).docx destination=C:\Users\hayde\Downloads\Documents\2025_NPC Form_GREEN Kathryn (2) (1).docx category=Documents
+2026-05-04 10:17:00,339 INFO moved original=C:\Users\hayde\Downloads\2025_NPC Form_GREEN Kathryn.docx destination=C:\Users\hayde\Downloads\Documents\2025_NPC Form_GREEN Kathryn.docx category=Documents
+2026-05-04 10:17:00,341 INFO moved original=C:\Users\hayde\Downloads\26.2.23 018 .docx destination=C:\Users\hayde\Downloads\Documents\26.2.23 018 .docx category=Documents
+2026-05-04 10:17:00,342 INFO moved original=C:\Users\hayde\Downloads\294bd607a153b613491e71187d5d2604.jpg destination=C:\Users\hayde\Downloads\Images\294bd607a153b613491e71187d5d2604.jpg category=Images
+2026-05-04 10:17:00,344 INFO moved original=C:\Users\hayde\Downloads\30092025115950-0001.pdf destination=C:\Users\hayde\Downloads\Documents\30092025115950-0001.pdf category=Documents
+2026-05-04 10:17:00,345 INFO moved original=C:\Users\hayde\Downloads\335.jpg destination=C:\Users\hayde\Downloads\Images\335.jpg category=Images
+2026-05-04 10:17:00,346 INFO moved original=C:\Users\hayde\Downloads\3487979_2020EOFYMerged (1).pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2020EOFYMerged (1).pdf category=Documents
+2026-05-04 10:17:00,348 INFO moved original=C:\Users\hayde\Downloads\3487979_2020EOFYMerged (2).pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2020EOFYMerged (2).pdf category=Documents
+2026-05-04 10:17:00,349 INFO moved original=C:\Users\hayde\Downloads\3487979_2020EOFYMerged (3).pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2020EOFYMerged (3).pdf category=Documents
+2026-05-04 10:17:00,350 INFO moved original=C:\Users\hayde\Downloads\3487979_2020EOFYMerged.pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2020EOFYMerged.pdf category=Documents
+2026-05-04 10:17:00,351 INFO moved original=C:\Users\hayde\Downloads\3487979_2020EOFYSummary.pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2020EOFYSummary.pdf category=Documents
+2026-05-04 10:17:00,352 INFO moved original=C:\Users\hayde\Downloads\3487979_2020EOFYTransactions.pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2020EOFYTransactions.pdf category=Documents
+2026-05-04 10:17:00,354 INFO moved original=C:\Users\hayde\Downloads\3487979_2021EOFYMerged (2).pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2021EOFYMerged (2).pdf category=Documents
+2026-05-04 10:17:00,355 INFO moved original=C:\Users\hayde\Downloads\3487979_2021EOFYMerged (3).pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2021EOFYMerged (3).pdf category=Documents
+2026-05-04 10:17:00,356 INFO moved original=C:\Users\hayde\Downloads\3487979_2021EOFYMerged (4).pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2021EOFYMerged (4).pdf category=Documents
+2026-05-04 10:17:00,357 INFO moved original=C:\Users\hayde\Downloads\3487979_2021EOFYMerged (5).pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2021EOFYMerged (5).pdf category=Documents
+2026-05-04 10:17:00,358 INFO moved original=C:\Users\hayde\Downloads\3487979_2021EOFYMerged.pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2021EOFYMerged.pdf category=Documents
+2026-05-04 10:17:00,359 INFO moved original=C:\Users\hayde\Downloads\3487979_2021EOFYSummary.pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2021EOFYSummary.pdf category=Documents
+2026-05-04 10:17:00,360 INFO moved original=C:\Users\hayde\Downloads\3487979_2021EOFYTransactions.pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2021EOFYTransactions.pdf category=Documents
+2026-05-04 10:17:00,361 INFO moved original=C:\Users\hayde\Downloads\3487979_2022EOFYTransactions.pdf destination=C:\Users\hayde\Downloads\Documents\3487979_2022EOFYTransactions.pdf category=Documents
+2026-05-04 10:17:00,362 INFO moved original=C:\Users\hayde\Downloads\39499_1_20201231.pdf destination=C:\Users\hayde\Downloads\Documents\39499_1_20201231.pdf category=Documents
+2026-05-04 10:17:00,364 INFO moved original=C:\Users\hayde\Downloads\39499_1_20211231 (1).pdf destination=C:\Users\hayde\Downloads\Documents\39499_1_20211231 (1).pdf category=Documents
+2026-05-04 10:17:00,365 INFO moved original=C:\Users\hayde\Downloads\39499_1_20220630 (2).pdf destination=C:\Users\hayde\Downloads\Documents\39499_1_20220630 (2).pdf category=Documents
+2026-05-04 10:17:00,366 INFO moved original=C:\Users\hayde\Downloads\39499_1_20221231.pdf destination=C:\Users\hayde\Downloads\Documents\39499_1_20221231.pdf category=Documents
+2026-05-04 10:17:00,367 INFO moved original=C:\Users\hayde\Downloads\39499_1_20230630.pdf destination=C:\Users\hayde\Downloads\Documents\39499_1_20230630.pdf category=Documents
+2026-05-04 10:17:00,368 INFO moved original=C:\Users\hayde\Downloads\3979-CD Forms 1..58.pdf destination=C:\Users\hayde\Downloads\Documents\3979-CD Forms 1..58.pdf category=Documents
+2026-05-04 10:17:00,369 INFO moved original=C:\Users\hayde\Downloads\5158-knowledge-test-5-c599641160.pdf destination=C:\Users\hayde\Downloads\Documents\5158-knowledge-test-5-c599641160.pdf category=Documents
+2026-05-04 10:17:00,370 INFO moved original=C:\Users\hayde\Downloads\6445900_2017EOFYMerged (2).pdf destination=C:\Users\hayde\Downloads\Documents\6445900_2017EOFYMerged (2).pdf category=Documents
+2026-05-04 10:17:00,371 INFO moved original=C:\Users\hayde\Downloads\6445900_2018EOFYMerged (1).pdf destination=C:\Users\hayde\Downloads\Documents\6445900_2018EOFYMerged (1).pdf category=Documents
+2026-05-04 10:17:00,372 INFO moved original=C:\Users\hayde\Downloads\6445900_2018EOFYMerged.pdf destination=C:\Users\hayde\Downloads\Documents\6445900_2018EOFYMerged.pdf category=Documents
+2026-05-04 10:17:00,373 INFO moved original=C:\Users\hayde\Downloads\6445900_2019EOFYMerged (1).pdf destination=C:\Users\hayde\Downloads\Documents\6445900_2019EOFYMerged (1).pdf category=Documents
+2026-05-04 10:17:00,374 INFO moved original=C:\Users\hayde\Downloads\6445900_2019EOFYMerged (2).pdf destination=C:\Users\hayde\Downloads\Documents\6445900_2019EOFYMerged (2).pdf category=Documents
+2026-05-04 10:17:00,375 INFO moved original=C:\Users\hayde\Downloads\6445900_2019EOFYMerged.pdf destination=C:\Users\hayde\Downloads\Documents\6445900_2019EOFYMerged.pdf category=Documents
+2026-05-04 10:17:00,377 INFO moved original=C:\Users\hayde\Downloads\6445900_2020EOFYMerged.pdf destination=C:\Users\hayde\Downloads\Documents\6445900_2020EOFYMerged.pdf category=Documents
+2026-05-04 10:17:00,378 INFO moved original=C:\Users\hayde\Downloads\6445900_2021EOFYMerged.pdf destination=C:\Users\hayde\Downloads\Documents\6445900_2021EOFYMerged.pdf category=Documents
+2026-05-04 10:17:00,379 INFO moved original=C:\Users\hayde\Downloads\6445900_2021EOFYSummary.pdf destination=C:\Users\hayde\Downloads\Documents\6445900_2021EOFYSummary.pdf category=Documents
+2026-05-04 10:17:00,380 INFO moved original=C:\Users\hayde\Downloads\6patienttrackerdayornightshift-LETTER.pdf destination=C:\Users\hayde\Downloads\Documents\6patienttrackerdayornightshift-LETTER.pdf category=Documents
+2026-05-04 10:17:00,381 INFO moved original=C:\Users\hayde\Downloads\8_5_23 File 1.pdf destination=C:\Users\hayde\Downloads\Documents\8_5_23 File 1.pdf category=Documents
+2026-05-04 10:17:00,382 INFO moved original=C:\Users\hayde\Downloads\8_5_23 form 2.pdf destination=C:\Users\hayde\Downloads\Documents\8_5_23 form 2.pdf category=Documents
+2026-05-04 10:17:00,383 INFO moved original=C:\Users\hayde\Downloads\ableton_live_lite_10.1.35_64.zip destination=C:\Users\hayde\Downloads\Archives\ableton_live_lite_10.1.35_64.zip category=Archives
+2026-05-04 10:17:00,384 INFO moved original=C:\Users\hayde\Downloads\ableton_live_trial_11.2.11_64.zip destination=C:\Users\hayde\Downloads\Archives\ableton_live_trial_11.2.11_64.zip category=Archives
+2026-05-04 10:17:00,385 INFO moved original=C:\Users\hayde\Downloads\access form 2.pdf destination=C:\Users\hayde\Downloads\Documents\access form 2.pdf category=Documents
+2026-05-04 10:17:00,386 INFO moved original=C:\Users\hayde\Downloads\Account_statement_report_on_12.05.2022.pdf destination=C:\Users\hayde\Downloads\Documents\Account_statement_report_on_12.05.2022.pdf category=Documents
+2026-05-04 10:17:00,387 INFO moved original=C:\Users\hayde\Downloads\Account_statement_report_on_26.08.2022.pdf destination=C:\Users\hayde\Downloads\Documents\Account_statement_report_on_26.08.2022.pdf category=Documents
+2026-05-04 10:17:00,388 INFO moved original=C:\Users\hayde\Downloads\AFM522 Assessment 1 (1).docx destination=C:\Users\hayde\Downloads\Documents\AFM522 Assessment 1 (1).docx category=Documents
+2026-05-04 10:17:00,390 INFO moved original=C:\Users\hayde\Downloads\AGED CARE STAT DEC.PDF destination=C:\Users\hayde\Downloads\Documents\AGED CARE STAT DEC.PDF category=Documents
+2026-05-04 10:17:00,391 INFO moved original=C:\Users\hayde\Downloads\agl_bill.pdf destination=C:\Users\hayde\Downloads\Documents\agl_bill.pdf category=Documents
+2026-05-04 10:17:00,392 INFO moved original=C:\Users\hayde\Downloads\alertlogging.Breaking out on Volume.20250701.csv destination=C:\Users\hayde\Downloads\Spreadsheets\alertlogging.Breaking out on Volume.20250701.csv category=Spreadsheets
+2026-05-04 10:17:00,393 INFO moved original=C:\Users\hayde\Downloads\ALEX0-9m (1).pdf destination=C:\Users\hayde\Downloads\Documents\ALEX0-9m (1).pdf category=Documents
+2026-05-04 10:17:00,395 INFO moved original=C:\Users\hayde\Downloads\Allied Municipal Power of Simtropolis v.0.3.2.zip destination=C:\Users\hayde\Downloads\Archives\Allied Municipal Power of Simtropolis v.0.3.2.zip category=Archives
+2026-05-04 10:17:00,396 INFO moved original=C:\Users\hayde\Downloads\Appendix 6 Undertaking and Declaration Form.pdf destination=C:\Users\hayde\Downloads\Documents\Appendix 6 Undertaking and Declaration Form.pdf category=Documents
+2026-05-04 10:17:00,397 INFO moved original=C:\Users\hayde\Downloads\Appendix 7 TB Assessment Tool.pdf destination=C:\Users\hayde\Downloads\Documents\Appendix 7 TB Assessment Tool.pdf category=Documents
+2026-05-04 10:17:00,398 INFO moved original=C:\Users\hayde\Downloads\AutoCAD_2022_English_Win_64bit_di_en-US_setup_webinstall.exe destination=C:\Users\hayde\Downloads\Installers\AutoCAD_2022_English_Win_64bit_di_en-US_setup_webinstall.exe category=Installers
+2026-05-04 10:17:00,400 INFO moved original=C:\Users\hayde\Downloads\Backtest_Results.zip destination=C:\Users\hayde\Downloads\Archives\Backtest_Results.zip category=Archives
+2026-05-04 10:17:00,401 INFO moved original=C:\Users\hayde\Downloads\Big Kath.docx destination=C:\Users\hayde\Downloads\Documents\Big Kath.docx category=Documents
+2026-05-04 10:17:00,402 INFO moved original=C:\Users\hayde\Downloads\brown-green-trees-daytime_414077-18.avif destination=C:\Users\hayde\Downloads\Other\brown-green-trees-daytime_414077-18.avif category=Other
+2026-05-04 10:17:00,403 INFO moved original=C:\Users\hayde\Downloads\Buffett_Rubric_-_New_Batch.csv destination=C:\Users\hayde\Downloads\Spreadsheets\Buffett_Rubric_-_New_Batch.csv category=Spreadsheets
+2026-05-04 10:17:00,405 INFO moved original=C:\Users\hayde\Downloads\Buffett_Westcott_Rubric_Detailed.xlsx destination=C:\Users\hayde\Downloads\Spreadsheets\Buffett_Westcott_Rubric_Detailed.xlsx category=Spreadsheets
+2026-05-04 10:17:00,406 INFO moved original=C:\Users\hayde\Downloads\CCF20092022_0003 (2).pdf destination=C:\Users\hayde\Downloads\Documents\CCF20092022_0003 (2).pdf category=Documents
+2026-05-04 10:17:00,407 INFO moved original=C:\Users\hayde\Downloads\ch05_sm_mckeown_essentials (1).doc destination=C:\Users\hayde\Downloads\Documents\ch05_sm_mckeown_essentials (1).doc category=Documents
+2026-05-04 10:17:00,408 INFO moved original=C:\Users\hayde\Downloads\ch07_ppt_mckeown_essentials.pptx destination=C:\Users\hayde\Downloads\Presentations\ch07_ppt_mckeown_essentials.pptx category=Presentations
+2026-05-04 10:17:00,410 INFO moved original=C:\Users\hayde\Downloads\Codex Installer.exe destination=C:\Users\hayde\Downloads\Installers\Codex Installer.exe category=Installers
+2026-05-04 10:17:00,411 INFO moved original=C:\Users\hayde\Downloads\Colossus Addon Mod (V 2.5).zip destination=C:\Users\hayde\Downloads\Archives\Colossus Addon Mod (V 2.5).zip category=Archives
+2026-05-04 10:17:00,412 INFO moved original=C:\Users\hayde\Downloads\Commsec Shares.pdf destination=C:\Users\hayde\Downloads\Documents\Commsec Shares.pdf category=Documents
+2026-05-04 10:17:00,413 INFO moved original=C:\Users\hayde\Downloads\csv_parser.py destination=C:\Users\hayde\Downloads\Code\csv_parser.py category=Code
+2026-05-04 10:17:00,415 INFO moved original=C:\Users\hayde\Downloads\csv_parser_fixed.py destination=C:\Users\hayde\Downloads\Code\csv_parser_fixed.py category=Code
+2026-05-04 10:17:00,416 INFO moved original=C:\Users\hayde\Downloads\csv_parser_patched_minimal.py destination=C:\Users\hayde\Downloads\Code\csv_parser_patched_minimal.py category=Code
+2026-05-04 10:17:00,417 INFO moved original=C:\Users\hayde\Downloads\CursorUserSetup-x64-2.6.19.exe destination=C:\Users\hayde\Downloads\Installers\CursorUserSetup-x64-2.6.19.exe category=Installers
+2026-05-04 10:17:00,418 INFO moved original=C:\Users\hayde\Downloads\CWCU statement.pdf destination=C:\Users\hayde\Downloads\Documents\CWCU statement.pdf category=Documents
+2026-05-04 10:17:00,419 INFO moved original=C:\Users\hayde\Downloads\Depression Worksheet - 03 - Weekly Activity Schedule.pdf destination=C:\Users\hayde\Downloads\Documents\Depression Worksheet - 03 - Weekly Activity Schedule.pdf category=Documents
+2026-05-04 10:17:00,420 INFO moved original=C:\Users\hayde\Downloads\Digital Finance.pptx destination=C:\Users\hayde\Downloads\Presentations\Digital Finance.pptx category=Presentations
+2026-05-04 10:17:00,421 INFO moved original=C:\Users\hayde\Downloads\draft 1 (6).pages destination=C:\Users\hayde\Downloads\Other\draft 1 (6).pages category=Other
+2026-05-04 10:17:00,422 INFO moved original=C:\Users\hayde\Downloads\EAR PLUG WORK SHIRT CAD OPTS (1) (2).pdf destination=C:\Users\hayde\Downloads\Documents\EAR PLUG WORK SHIRT CAD OPTS (1) (2).pdf category=Documents
+2026-05-04 10:17:00,423 INFO moved original=C:\Users\hayde\Downloads\earplugs.jpg destination=C:\Users\hayde\Downloads\Images\earplugs.jpg category=Images
+2026-05-04 10:17:00,424 INFO moved original=C:\Users\hayde\Downloads\ear_plug_work_shirt_cad_opts__1_ (2).zip destination=C:\Users\hayde\Downloads\Archives\ear_plug_work_shirt_cad_opts__1_ (2).zip category=Archives
+2026-05-04 10:17:00,426 INFO moved original=C:\Users\hayde\Downloads\Everything-Silkworms-Care-Sheet-jlvgbp.pdf destination=C:\Users\hayde\Downloads\Documents\Everything-Silkworms-Care-Sheet-jlvgbp.pdf category=Documents
+2026-05-04 10:17:00,427 INFO moved original=C:\Users\hayde\Downloads\Everything-Silkworms-Chow-Instructions-8574di.pdf destination=C:\Users\hayde\Downloads\Documents\Everything-Silkworms-Chow-Instructions-8574di.pdf category=Documents
+2026-05-04 10:17:00,428 INFO moved original=C:\Users\hayde\Downloads\favicon (2).ico destination=C:\Users\hayde\Downloads\Other\favicon (2).ico category=Other
+2026-05-04 10:17:00,429 INFO moved original=C:\Users\hayde\Downloads\Fleetwood_Mac_Complete_Easy_Guitar_Songbook.pdf destination=C:\Users\hayde\Downloads\Documents\Fleetwood_Mac_Complete_Easy_Guitar_Songbook.pdf category=Documents
+2026-05-04 10:17:00,430 INFO moved original=C:\Users\hayde\Downloads\Fleetwood_Mac_Easy_Guitar_Songbook.pdf destination=C:\Users\hayde\Downloads\Documents\Fleetwood_Mac_Easy_Guitar_Songbook.pdf category=Documents
+2026-05-04 10:17:00,431 INFO moved original=C:\Users\hayde\Downloads\fog-forest-autumn (1).jpg destination=C:\Users\hayde\Downloads\Images\fog-forest-autumn (1).jpg category=Images
+2026-05-04 10:17:00,432 INFO moved original=C:\Users\hayde\Downloads\FreeCAD-0.17.13541.9948ee4-WIN-x64-installer.exe destination=C:\Users\hayde\Downloads\Installers\FreeCAD-0.17.13541.9948ee4-WIN-x64-installer.exe category=Installers
+2026-05-04 10:17:00,433 INFO moved original=C:\Users\hayde\Downloads\GD_IBKR_Live_trading (4).py destination=C:\Users\hayde\Downloads\Code\GD_IBKR_Live_trading (4).py category=Code
+2026-05-04 10:17:00,434 INFO moved original=C:\Users\hayde\Downloads\Georgia.jpeg destination=C:\Users\hayde\Downloads\Images\Georgia.jpeg category=Images
+2026-05-04 10:17:00,435 INFO moved original=C:\Users\hayde\Downloads\Go_Insurance_Leisure_Travel_Insurance_PDS_YCGO_V3.0RET_01032023 (1).pdf destination=C:\Users\hayde\Downloads\Documents\Go_Insurance_Leisure_Travel_Insurance_PDS_YCGO_V3.0RET_01032023 (1).pdf category=Documents
+2026-05-04 10:17:00,436 INFO moved original=C:\Users\hayde\Downloads\Hayden J Westcott - Resume (1).docx destination=C:\Users\hayde\Downloads\Documents\Hayden J Westcott - Resume (1).docx category=Documents
+2026-05-04 10:17:00,437 INFO moved original=C:\Users\hayde\Downloads\Hayden+J+Westcott+-+Resume.docx destination=C:\Users\hayde\Downloads\Documents\Hayden+J+Westcott+-+Resume.docx category=Documents
+2026-05-04 10:17:00,439 INFO moved original=C:\Users\hayde\Downloads\HaydenWestcott_Cover+Letter.docx destination=C:\Users\hayde\Downloads\Documents\HaydenWestcott_Cover+Letter.docx category=Documents
+2026-05-04 10:17:00,440 INFO moved original=C:\Users\hayde\Downloads\holly-ai-ibkr-bridge-master (1).zip destination=C:\Users\hayde\Downloads\Archives\holly-ai-ibkr-bridge-master (1).zip category=Archives
+2026-05-04 10:17:00,441 INFO moved original=C:\Users\hayde\Downloads\holly-ai-ibkr-bridge-master (2).zip destination=C:\Users\hayde\Downloads\Archives\holly-ai-ibkr-bridge-master (2).zip category=Archives
+2026-05-04 10:17:00,442 INFO moved original=C:\Users\hayde\Downloads\holly-ai-ibkr-bridge-master (4).zip destination=C:\Users\hayde\Downloads\Archives\holly-ai-ibkr-bridge-master (4).zip category=Archives
+2026-05-04 10:17:00,444 INFO moved original=C:\Users\hayde\Downloads\holly-ai-ibkr-bridge-master (5).zip destination=C:\Users\hayde\Downloads\Archives\holly-ai-ibkr-bridge-master (5).zip category=Archives
+2026-05-04 10:17:00,445 INFO moved original=C:\Users\hayde\Downloads\holly-ai-ibkr-bridge-master (8).zip destination=C:\Users\hayde\Downloads\Archives\holly-ai-ibkr-bridge-master (8).zip category=Archives
+2026-05-04 10:17:00,446 INFO moved original=C:\Users\hayde\Downloads\holly-ai-ibkr-bridge-master.zip destination=C:\Users\hayde\Downloads\Archives\holly-ai-ibkr-bridge-master.zip category=Archives
+2026-05-04 10:17:00,448 INFO moved original=C:\Users\hayde\Downloads\holly_ibkr_20260128.log destination=C:\Users\hayde\Downloads\Other\holly_ibkr_20260128.log category=Other
+2026-05-04 10:17:00,449 INFO moved original=C:\Users\hayde\Downloads\H_Port_Tracker_and_Plan_WITH_HAYDEN_PICKS.xlsx destination=C:\Users\hayde\Downloads\Spreadsheets\H_Port_Tracker_and_Plan_WITH_HAYDEN_PICKS.xlsx category=Spreadsheets
+2026-05-04 10:17:00,450 INFO moved original=C:\Users\hayde\Downloads\H_Port_Tracker_WITH_RUBRIC_GUIDE.xlsx destination=C:\Users\hayde\Downloads\Spreadsheets\H_Port_Tracker_WITH_RUBRIC_GUIDE.xlsx category=Spreadsheets
+2026-05-04 10:17:00,451 INFO moved original=C:\Users\hayde\Downloads\IBKR_Paper_Framework (3).py destination=C:\Users\hayde\Downloads\Code\IBKR_Paper_Framework (3).py category=Code
+2026-05-04 10:17:00,452 INFO moved original=C:\Users\hayde\Downloads\iD-v4.3.13a.exe destination=C:\Users\hayde\Downloads\Installers\iD-v4.3.13a.exe category=Installers
+2026-05-04 10:17:00,453 INFO moved original=C:\Users\hayde\Downloads\iD-v4.3.4a.exe destination=C:\Users\hayde\Downloads\Installers\iD-v4.3.4a.exe category=Installers
+2026-05-04 10:17:00,454 INFO moved original=C:\Users\hayde\Downloads\image0 (1).jpeg destination=C:\Users\hayde\Downloads\Images\image0 (1).jpeg category=Images
+2026-05-04 10:17:00,455 INFO moved original=C:\Users\hayde\Downloads\image0.jpeg destination=C:\Users\hayde\Downloads\Images\image0.jpeg category=Images
+2026-05-04 10:17:00,456 INFO moved original=C:\Users\hayde\Downloads\image0.png destination=C:\Users\hayde\Downloads\Images\image0.png category=Images
+2026-05-04 10:17:00,457 INFO moved original=C:\Users\hayde\Downloads\image1 (1).jpeg destination=C:\Users\hayde\Downloads\Images\image1 (1).jpeg category=Images
+2026-05-04 10:17:00,458 INFO moved original=C:\Users\hayde\Downloads\image1.jpeg destination=C:\Users\hayde\Downloads\Images\image1.jpeg category=Images
+2026-05-04 10:17:00,459 INFO moved original=C:\Users\hayde\Downloads\image1.png destination=C:\Users\hayde\Downloads\Images\image1.png category=Images
+2026-05-04 10:17:00,460 INFO moved original=C:\Users\hayde\Downloads\image2.jpeg destination=C:\Users\hayde\Downloads\Images\image2.jpeg category=Images
+2026-05-04 10:17:00,461 INFO moved original=C:\Users\hayde\Downloads\img-200516163817 (1) (1).pdf destination=C:\Users\hayde\Downloads\Documents\img-200516163817 (1) (1).pdf category=Documents
+2026-05-04 10:17:00,463 INFO moved original=C:\Users\hayde\Downloads\Install League of Legends oc1.exe destination=C:\Users\hayde\Downloads\Installers\Install League of Legends oc1.exe category=Installers
+2026-05-04 10:17:00,464 INFO moved original=C:\Users\hayde\Downloads\Invoice 0000001.pdf destination=C:\Users\hayde\Downloads\Documents\Invoice 0000001.pdf category=Documents
+2026-05-04 10:17:00,465 INFO moved original=C:\Users\hayde\Downloads\Jury Duty.pdf destination=C:\Users\hayde\Downloads\Documents\Jury Duty.pdf category=Documents
+2026-05-04 10:17:00,465 INFO moved original=C:\Users\hayde\Downloads\JuryDuty.pdf destination=C:\Users\hayde\Downloads\Documents\JuryDuty.pdf category=Documents
+2026-05-04 10:17:00,466 INFO moved original=C:\Users\hayde\Downloads\K. Green appraisal 1 record.docx destination=C:\Users\hayde\Downloads\Documents\K. Green appraisal 1 record.docx category=Documents
+2026-05-04 10:17:00,467 INFO moved original=C:\Users\hayde\Downloads\KathMedibank1.pdf destination=C:\Users\hayde\Downloads\Documents\KathMedibank1.pdf category=Documents
+2026-05-04 10:17:00,468 INFO moved original=C:\Users\hayde\Downloads\KathMedibank2.pdf destination=C:\Users\hayde\Downloads\Documents\KathMedibank2.pdf category=Documents
+2026-05-04 10:17:00,469 INFO moved original=C:\Users\hayde\Downloads\KathMedibank3.pdf destination=C:\Users\hayde\Downloads\Documents\KathMedibank3.pdf category=Documents
+2026-05-04 10:17:00,470 INFO moved original=C:\Users\hayde\Downloads\Kathryn Green 26.2.23 Assignment 2, 018.docx destination=C:\Users\hayde\Downloads\Documents\Kathryn Green 26.2.23 Assignment 2, 018.docx category=Documents
+2026-05-04 10:17:00,471 INFO moved original=C:\Users\hayde\Downloads\Kathryn Green immunisation Sep 2022.pdf destination=C:\Users\hayde\Downloads\Documents\Kathryn Green immunisation Sep 2022.pdf category=Documents
+2026-05-04 10:17:00,472 INFO moved original=C:\Users\hayde\Downloads\Kathryn_Easy_Guitar_Songbook (1).pdf destination=C:\Users\hayde\Downloads\Documents\Kathryn_Easy_Guitar_Songbook (1).pdf category=Documents
+2026-05-04 10:17:00,473 INFO moved original=C:\Users\hayde\Downloads\Kathryn_Full_Songbook_Part1.pdf destination=C:\Users\hayde\Downloads\Documents\Kathryn_Full_Songbook_Part1.pdf category=Documents
+2026-05-04 10:17:00,474 INFO moved original=C:\Users\hayde\Downloads\kg (1).docx destination=C:\Users\hayde\Downloads\Documents\kg (1).docx category=Documents
+2026-05-04 10:17:00,475 INFO moved original=C:\Users\hayde\Downloads\kg vaccination card.bmp destination=C:\Users\hayde\Downloads\Images\kg vaccination card.bmp category=Images
+2026-05-04 10:17:00,476 INFO moved original=C:\Users\hayde\Downloads\kg.docx destination=C:\Users\hayde\Downloads\Documents\kg.docx category=Documents
+2026-05-04 10:17:00,477 INFO moved original=C:\Users\hayde\Downloads\kg1.pages destination=C:\Users\hayde\Downloads\Other\kg1.pages category=Other
+2026-05-04 10:17:00,478 INFO moved original=C:\Users\hayde\Downloads\KGREEN 445 1.docx destination=C:\Users\hayde\Downloads\Documents\KGREEN 445 1.docx category=Documents
+2026-05-04 10:17:00,481 INFO moved original=C:\Users\hayde\Downloads\KGREEN goals.docx destination=C:\Users\hayde\Downloads\Documents\KGREEN goals.docx category=Documents
+2026-05-04 10:17:00,482 INFO moved original=C:\Users\hayde\Downloads\l (3).docx destination=C:\Users\hayde\Downloads\Documents\l (3).docx category=Documents
+2026-05-04 10:17:00,483 INFO moved original=C:\Users\hayde\Downloads\Lame_v3.99.3_for_Windows.exe destination=C:\Users\hayde\Downloads\Installers\Lame_v3.99.3_for_Windows.exe category=Installers
+2026-05-04 10:17:00,487 INFO moved original=C:\Users\hayde\Downloads\Letter for Hayden to CWCU.docx destination=C:\Users\hayde\Downloads\Documents\Letter for Hayden to CWCU.docx category=Documents
+2026-05-04 10:17:00,488 INFO moved original=C:\Users\hayde\Downloads\main_flatten_safe_v2.py destination=C:\Users\hayde\Downloads\Code\main_flatten_safe_v2.py category=Code
+2026-05-04 10:17:00,489 INFO moved original=C:\Users\hayde\Downloads\main_flatten_safe_v3.py destination=C:\Users\hayde\Downloads\Code\main_flatten_safe_v3.py category=Code
+2026-05-04 10:17:00,490 INFO moved original=C:\Users\hayde\Downloads\main_flatten_safe_v4_entry_lock.py destination=C:\Users\hayde\Downloads\Code\main_flatten_safe_v4_entry_lock.py category=Code
+2026-05-04 10:17:00,490 INFO moved original=C:\Users\hayde\Downloads\Microsoft.Services.Store.winmd destination=C:\Users\hayde\Downloads\Other\Microsoft.Services.Store.winmd category=Other
+2026-05-04 10:17:00,491 INFO moved original=C:\Users\hayde\Downloads\MR11003828_Receipt.pdf destination=C:\Users\hayde\Downloads\Documents\MR11003828_Receipt.pdf category=Documents
+2026-05-04 10:17:00,492 INFO moved original=C:\Users\hayde\Downloads\ms004-2102en-f.pdf destination=C:\Users\hayde\Downloads\Documents\ms004-2102en-f.pdf category=Documents
+2026-05-04 10:17:00,493 INFO moved original=C:\Users\hayde\Downloads\MTGAInstaller (1).exe destination=C:\Users\hayde\Downloads\Installers\MTGAInstaller (1).exe category=Installers
+2026-05-04 10:17:00,494 INFO moved original=C:\Users\hayde\Downloads\NAM_Tunnel&SlopeMod_Ver_0.30.zip destination=C:\Users\hayde\Downloads\Archives\NAM_Tunnel&SlopeMod_Ver_0.30.zip category=Archives
+2026-05-04 10:17:00,495 INFO moved original=C:\Users\hayde\Downloads\NCE50_2007_.exe destination=C:\Users\hayde\Downloads\Installers\NCE50_2007_.exe category=Installers
+2026-05-04 10:17:00,496 INFO moved original=C:\Users\hayde\Downloads\NetworkAddonMod_Setup_Version49_rev1.zip destination=C:\Users\hayde\Downloads\Archives\NetworkAddonMod_Setup_Version49_rev1.zip category=Archives
+2026-05-04 10:17:00,497 INFO moved original=C:\Users\hayde\Downloads\NoiseArmour Workshirt With Earplug Design (1) destination=C:\Users\hayde\Downloads\Other\NoiseArmour Workshirt With Earplug Design (1) category=Other
+2026-05-04 10:17:00,498 INFO moved original=C:\Users\hayde\Downloads\OneDrive_1_18-02-2026.zip destination=C:\Users\hayde\Downloads\Archives\OneDrive_1_18-02-2026.zip category=Archives
+2026-05-04 10:17:00,499 INFO moved original=C:\Users\hayde\Downloads\Placement hours.pdf destination=C:\Users\hayde\Downloads\Documents\Placement hours.pdf category=Documents
+2026-05-04 10:17:00,500 INFO moved original=C:\Users\hayde\Downloads\Player’s Handbook n 2024.pdf destination=C:\Users\hayde\Downloads\Documents\Player’s Handbook n 2024.pdf category=Documents
+2026-05-04 10:17:00,501 INFO moved original=C:\Users\hayde\Downloads\Pre-course Assessment 1_Certificate of Completion.pdf destination=C:\Users\hayde\Downloads\Documents\Pre-course Assessment 1_Certificate of Completion.pdf category=Documents
+2026-05-04 10:17:00,502 INFO moved original=C:\Users\hayde\Downloads\python-3.11.4-amd64.exe destination=C:\Users\hayde\Downloads\Installers\python-3.11.4-amd64.exe category=Installers
+2026-05-04 10:17:00,503 INFO moved original=C:\Users\hayde\Downloads\Realism Mod for SC4 part 11.zip destination=C:\Users\hayde\Downloads\Archives\Realism Mod for SC4 part 11.zip category=Archives
+2026-05-04 10:17:00,504 INFO moved original=C:\Users\hayde\Downloads\Reflection final K Green.pdf destination=C:\Users\hayde\Downloads\Documents\Reflection final K Green.pdf category=Documents
+2026-05-04 10:17:00,505 INFO moved original=C:\Users\hayde\Downloads\Reflection final.docx destination=C:\Users\hayde\Downloads\Documents\Reflection final.docx category=Documents
+2026-05-04 10:17:00,506 INFO moved original=C:\Users\hayde\Downloads\Resource. Catch-up worksheet for children.pdf destination=C:\Users\hayde\Downloads\Documents\Resource. Catch-up worksheet for children.pdf category=Documents
+2026-05-04 10:17:00,507 INFO moved original=C:\Users\hayde\Downloads\SAtatementCWCUhayden.pdf destination=C:\Users\hayde\Downloads\Documents\SAtatementCWCUhayden.pdf category=Documents
+2026-05-04 10:17:00,507 INFO moved original=C:\Users\hayde\Downloads\Setup.msi destination=C:\Users\hayde\Downloads\Installers\Setup.msi category=Installers
+2026-05-04 10:17:00,508 INFO moved original=C:\Users\hayde\Downloads\ShiftplannerbundlebyThePreparedNurseCo.pdf destination=C:\Users\hayde\Downloads\Documents\ShiftplannerbundlebyThePreparedNurseCo.pdf category=Documents
+2026-05-04 10:17:00,510 INFO moved original=C:\Users\hayde\Downloads\Simfox_Day_n_Nite_Modd.zip destination=C:\Users\hayde\Downloads\Archives\Simfox_Day_n_Nite_Modd.zip category=Archives
+2026-05-04 10:17:00,511 INFO moved original=C:\Users\hayde\Downloads\Small_business_growth_Intenti.pdf destination=C:\Users\hayde\Downloads\Documents\Small_business_growth_Intenti.pdf category=Documents
+2026-05-04 10:17:00,512 INFO moved original=C:\Users\hayde\Downloads\START_AEGIS.txt destination=C:\Users\hayde\Downloads\Documents\START_AEGIS.txt category=Documents
+2026-05-04 10:17:00,514 INFO moved original=C:\Users\hayde\Downloads\Steinberg_Download_Assistant_1.33.2_Installer_win.exe destination=C:\Users\hayde\Downloads\Installers\Steinberg_Download_Assistant_1.33.2_Installer_win.exe category=Installers
+2026-05-04 10:17:00,514 INFO moved original=C:\Users\hayde\Downloads\Student Details Form (UPDATED 10.06.20).pdf destination=C:\Users\hayde\Downloads\Documents\Student Details Form (UPDATED 10.06.20).pdf category=Documents
+2026-05-04 10:17:00,515 INFO moved original=C:\Users\hayde\Downloads\Superannuation_mckeown_essentials.pptx destination=C:\Users\hayde\Downloads\Presentations\Superannuation_mckeown_essentials.pptx category=Presentations
+2026-05-04 10:17:00,516 INFO moved original=C:\Users\hayde\Downloads\Support-LogMeInRescue.exe destination=C:\Users\hayde\Downloads\Installers\Support-LogMeInRescue.exe category=Installers
+2026-05-04 10:17:00,517 INFO moved original=C:\Users\hayde\Downloads\System Risk Mitigation.pdf destination=C:\Users\hayde\Downloads\Documents\System Risk Mitigation.pdf category=Documents
+2026-05-04 10:17:00,518 INFO moved original=C:\Users\hayde\Downloads\tf00000059_wac.xlsx destination=C:\Users\hayde\Downloads\Spreadsheets\tf00000059_wac.xlsx category=Spreadsheets
+2026-05-04 10:17:00,519 INFO moved original=C:\Users\hayde\Downloads\TIPro_x86_x64_setup_5.6.104 (3).exe destination=C:\Users\hayde\Downloads\Installers\TIPro_x86_x64_setup_5.6.104 (3).exe category=Installers
+2026-05-04 10:17:00,520 INFO moved original=C:\Users\hayde\Downloads\Top_Rubric_Scorers__Copy_to_Excel_.csv destination=C:\Users\hayde\Downloads\Spreadsheets\Top_Rubric_Scorers__Copy_to_Excel_.csv category=Spreadsheets
+2026-05-04 10:17:00,520 INFO moved original=C:\Users\hayde\Downloads\TradeIdeasHolly.png destination=C:\Users\hayde\Downloads\Images\TradeIdeasHolly.png category=Images
+2026-05-04 10:17:00,521 INFO moved original=C:\Users\hayde\Downloads\tsetup-x64.4.1.0.exe destination=C:\Users\hayde\Downloads\Installers\tsetup-x64.4.1.0.exe category=Installers
+2026-05-04 10:17:00,522 INFO moved original=C:\Users\hayde\Downloads\tws-latest-windows-x64.exe destination=C:\Users\hayde\Downloads\Installers\tws-latest-windows-x64.exe category=Installers
+2026-05-04 10:17:00,523 INFO moved original=C:\Users\hayde\Downloads\Untitled 5 (2).pages destination=C:\Users\hayde\Downloads\Other\Untitled 5 (2).pages category=Other
+2026-05-04 10:17:00,525 INFO moved original=C:\Users\hayde\Downloads\Video.mov destination=C:\Users\hayde\Downloads\Videos\Video.mov category=Videos
+2026-05-04 10:17:00,526 INFO moved original=C:\Users\hayde\Downloads\WASTE Application for Subsidiary Domestic Waste Services 2020-2021.pdf destination=C:\Users\hayde\Downloads\Documents\WASTE Application for Subsidiary Domestic Waste Services 2020-2021.pdf category=Documents
+2026-05-04 10:17:00,528 INFO moved original=C:\Users\hayde\Downloads\Webull Desktop_7.6.4_70000681_au_x64signed_e0ttx81f8l4y.exe destination=C:\Users\hayde\Downloads\Installers\Webull Desktop_7.6.4_70000681_au_x64signed_e0ttx81f8l4y.exe category=Installers
+2026-05-04 10:17:00,529 INFO moved original=C:\Users\hayde\Downloads\Webull Desktop_8.2.0_80000948_au_x64signed_e9gyz5ox7pxe.exe destination=C:\Users\hayde\Downloads\Installers\Webull Desktop_8.2.0_80000948_au_x64signed_e9gyz5ox7pxe.exe category=Installers
+2026-05-04 10:17:00,530 INFO moved original=C:\Users\hayde\Downloads\Westpac 1.pdf destination=C:\Users\hayde\Downloads\Documents\Westpac 1.pdf category=Documents
+2026-05-04 10:17:00,531 INFO moved original=C:\Users\hayde\Downloads\Westpac shares (1).pdf destination=C:\Users\hayde\Downloads\Documents\Westpac shares (1).pdf category=Documents
+2026-05-04 10:17:00,532 INFO moved original=C:\Users\hayde\Downloads\WestpacAcc (1).pdf destination=C:\Users\hayde\Downloads\Documents\WestpacAcc (1).pdf category=Documents
+2026-05-04 10:17:00,533 INFO moved original=C:\Users\hayde\Downloads\Windows11InstallationAssistant.exe destination=C:\Users\hayde\Downloads\Installers\Windows11InstallationAssistant.exe category=Installers
+2026-05-04 10:17:00,534 INFO moved original=C:\Users\hayde\Downloads\winzip25-p003.exe destination=C:\Users\hayde\Downloads\Installers\winzip25-p003.exe category=Installers
+2026-05-04 10:17:00,535 INFO moved original=C:\Users\hayde\Downloads\winzip25-update.exe destination=C:\Users\hayde\Downloads\Installers\winzip25-update.exe category=Installers
+2026-05-04 10:17:00,536 INFO moved original=C:\Users\hayde\Downloads\Work shirt.jpg destination=C:\Users\hayde\Downloads\Images\Work shirt.jpg category=Images
+2026-05-04 10:17:00,536 INFO completed moves moved=188 failed=0
+2026-05-04 10:17:09,370 INFO scan start folder=C:\Users\hayde\Documents include_subfolders=False
+2026-05-04 10:17:09,370 INFO skipped hidden/system path=C:\Users\hayde\Documents\My Music
+2026-05-04 10:17:09,370 INFO skipped hidden/system path=C:\Users\hayde\Documents\My Pictures
+2026-05-04 10:17:09,370 INFO skipped hidden/system path=C:\Users\hayde\Documents\My Videos
+2026-05-04 10:17:09,371 INFO scan end folder=C:\Users\hayde\Documents files_found=0 skipped=3
+2026-05-04 10:17:09,371 INFO planned moves count=0
